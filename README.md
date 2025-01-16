@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliceInWonderlad
-- 👀 I’m interested in Neuroscience, psychology AND data analysis
-- 🌱 I’m currently learning data analysis 
+- 👀 I’m interested in Neuroscience, psychology, data analysis
+- 🌱  
 - 💞️ I’m looking to collaborate on interdisciplinary projects, in applied data science e.g Neuroscience
 - 📫 How to reach me ...
 

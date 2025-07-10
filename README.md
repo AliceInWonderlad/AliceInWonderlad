@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AliceInWonderlad
+- 👋 Hi, I’m @MarziGol
 - 👀 I’m interested in Neuroscience, psychology, data analysis
 - 🌱  
-- 💞️ I’m looking to collaborate on interdisciplinary projects, in applied data science e.g Neuroscience
+- 💞️ I’m looking to collaborate on interdisciplinary projects
 - 📫 How to reach me ...
 
 <!---
